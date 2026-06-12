@@ -135,17 +135,12 @@ Sheets           │
 ```text
 AI-Email-Intelligence-Agent/
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-│
 ├── workflow/
 │   └── ai-email-agent.json
 │
-├── assets/
-│   └── screenshots/
-│
-└── docs/
+├── LICENSE
+├──.gitignore
+└── README.md
 ```
 
 ---
