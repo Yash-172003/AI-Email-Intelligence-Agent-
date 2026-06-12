@@ -138,8 +138,8 @@ AI-Email-Intelligence-Agent/
 ├── workflow/
 │   └── ai-email-agent.json
 │
-├── LICENSE
 ├──.gitignore
+├── LICENSE
 └── README.md
 ```
 
